@@ -1,0 +1,30 @@
+$def with ()
+
+<html>
+    <head>
+        <script type="text/javascript" src="/static/js/data.json"></script>
+        <script type="text/javascript" src="/static/js/jquery-1.4.3.min.js"></script>
+        <script type="text/javascript" src="/static/js/underscore.js"></script>
+        <script type="text/javascript" src="/static/js/fun.js"></script>
+        <script type="text/javascript" src="/static/js/backbone.js"></script>
+        <link href="/static/css/main.css" rel="stylesheet" />
+        <script src="/static/js/ace/build/src/ace.js" type="text/javascript" charset="utf-8"></script>
+        <script>
+            var editor;
+            $$(window).load(function() {
+                    editor = ace.edit("editor");
+                    // wrap before you tap (on keys)
+                    editor.getSession().setUseWrapMode(true);
+            });
+        </script>
+        <script type="text/javascript" src="/static/js/disamb.js"></script>
+    </head>
+    <body>
+        <div id="editor"></div>
+        <h1>disamb</h1>
+        <p id="instruct">Start typing, <strong>press 1-9 to select</strong> your entities, <strong>esc to cancel</strong> disambiguation, <strong>space triggers a lookup</strong></p>
+        <!--        <input id="inp" type="text" name="input" value="Stripe" />-->
+        <div id="disamb"></div>
+        <div id="sclaim">Created by <a href="http://www.stephenbalaban.com/">Stephen 'sabalaba' Balaban</a> with Underscore.js, Fun.js, jQuery, and <a href="http://github.com/ajaxorg/ace/" target="_blank">ACE text editor</a>.</div>
+    </body>
+</html>

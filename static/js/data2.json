@@ -1,0 +1,132 @@
+{
+   "data": [
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "226604607368420"
+      },
+      {
+         "version": 1,
+         "name": "boston",
+         "id": "147538548622714"
+      },
+      {
+         "version": 1,
+         "name": "boston",
+         "id": "157129204325557"
+      },
+      {
+         "version": 0,
+         "name": "boston",
+         "id": "112753592118782"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "165667573460089"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "112173755525756"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "195105267185366"
+      },
+      {
+         "version": 0,
+         "name": "BOSTON",
+         "id": "45028753013"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "162742677132854"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "170701249613511"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "115296101863476"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "134460243271098"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "116833688396181"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "143402355721701"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "223593684351718"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "122533094474330"
+      },
+      {
+         "version": 0,
+         "name": "Boston",
+         "id": "105050313605"
+      },
+      {
+         "version": 1,
+         "name": "BOSTON",
+         "id": "204837549530464"
+      },
+      {
+         "version": 1,
+         "name": "boston",
+         "id": "147083112005587"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "149737401750346"
+      },
+      {
+         "version": 1,
+         "name": "boston",
+         "id": "163008840413345"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "163219283705842"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "102690306480821"
+      },
+      {
+         "version": 1,
+         "name": "Boston",
+         "id": "226973767330531"
+      },
+      {
+         "version": 0,
+         "name": "Boston",
+         "id": "109253002441097"
+      }
+   ],
+   "paging": {
+      "next": "https://graph.facebook.com/search?q=Boston&type=group&access_token=2227470867|2.AQCIA9Lz7e4qrP-v.3600.1313283600.0-502477211|JnIXgewI1HJFpdr_sp_-LQ1imIA&limit=25&offset=25"
+   }
+}

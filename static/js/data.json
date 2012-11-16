@@ -1,0 +1,76 @@
+var DATA = { "data": [ { "version": 0, "name": "Python programming", "id": "5609093190" }, { "version": 0, "name": "Python Programming", "id": "56595753249" }, { "version": 0, "name": "Python Programming", "id": "111028480848" }, { "version": 1, "name": "python programming", "id": "165509636832546" }, { "version": 0, "name": "Python Programming", "id": "92729368148" }, { "version": 0, "name": "Python Programming Language", "id": "136684736369461" }, { "version": 0, "name": "Python Programming Language Community", "id": "173013438463" }, { "version": 0, "name": "Python Programming Language (T\u00dcRK\u0130YE)", "id": "361008481820" }, { "version": 0, "name": "Python", "id": "27388384578" }, { "version": 1, "name": "Python", "id": "200859633292814" }, { "version": 1, "name": "Programming", "id": "361081956994" }, { "version": 0, "name": "Python", "id": "34262588665" }, { "version": 1, "name": "\u0644\u063a\u0629 \u0628\u0627\u064a\u062b\u0648\u0646 - Python Programming Language", "id": "162177003818230" }, { "version": 0, "name": "\u0644\u063a\u0629 \u0628\u0627\u064a\u062b\u0648\u0646 - Python Programming Language ", "id": "268915155937" }, { "version": 1, "name": "Python Programming, since everyone is doing programming", "id": "106156122809414" }, { "version": 0, "name": "Python Programming - Tips, Advice and Snippets", "id": "13360774341" }, { "version": 0, "name": "Programming with Python", "id": "2217388499" }, { "version": 0, "name": "About Python", "id": "79142441993" }, { "version": 1, "name": "OverStar Programming", "id": "223674900977909" }, { "version": 0, "name": "Learning Python", "id": "14225733438" }, { "version": 1, "name": "Programming Language", "id": "57015509359" }, { "version": 0, "name": "Python programmers", "id": "4719488821" }, { "version": 1, "name": "Python Talk", "id": "186233914734339" }, { "version": 1, "name": "Game Programming", "id": "119026261490734" }, { "version": 0, "name": "Python Club", "id": "101955671435" } ], "paging": { "next": "https://graph.facebook.com/search?q=Python+Programming&type=group&access_token=2227470867|2.AQDXSDOHNu0CziUJ.3600.1313359200.0-502477211|RxAoMUYf8PnLDanqsKU8iS0aRac&limit=25&offset=25" } }
+
+// limit to 10 results
+DATA.data = DATA.data.slice(0,10);
+
+var REFINED = {
+"id": "6815841748",
+"name": "Barack Obama",
+"picture": "http://profile.ak.fbcdn.net/hprofile-ak-ash2/276415_6815841748_4775941_s.jpg",
+"link": "http://www.facebook.com/barackobama",
+"likes": 22423680,
+"category": "Politician",
+"website": "http://www.barackobama.com\nhttp://www.whitehouse.gov/",
+"username": "barackobama",
+"parking": {
+"street": 0,
+"lot": 0,
+"valet": 0
+},
+"hours": {
+"mon_1_open": 0,
+"mon_1_close": 0,
+"tue_1_open": 0,
+"tue_1_close": 0,
+"wed_1_open": 0,
+"wed_1_close": 0,
+"thu_1_open": 0,
+"thu_1_close": 0,
+"fri_1_open": 0,
+"fri_1_close": 0,
+"sat_1_open": 0,
+"sat_1_close": 0,
+"sun_1_open": 0,
+"sun_1_close": 0,
+"mon_2_open": 0,
+"mon_2_close": 0,
+"tue_2_open": 0,
+"tue_2_close": 0,
+"wed_2_open": 0,
+"wed_2_close": 0,
+"thu_2_open": 0,
+"thu_2_close": 0,
+"fri_2_open": 0,
+"fri_2_close": 0,
+"sat_2_open": 0,
+"sat_2_close": 0,
+"sun_2_open": 0,
+"sun_2_close": 0
+},
+"payment_options": {
+"cash_only": 0,
+"visa": 0,
+"amex": 0,
+"mastercard": 0,
+"discover": 0
+},
+"restaurant_services": {
+"reserve": 0,
+"walkins": 0,
+"groups": 0,
+"kids": 0,
+"takeout": 0,
+"delivery": 0,
+"catering": 0,
+"waiter": 0,
+"outdoor": 0
+},
+"restaurant_specialties": {
+"breakfast": 0,
+"lunch": 0,
+"dinner": 0,
+"coffee": 0,
+"drinks": 0
+},
+"birthday": "08/04/1961"
+}
